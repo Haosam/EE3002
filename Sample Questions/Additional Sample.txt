@@ -1,0 +1,20 @@
+1) Which of the Following represents r0
+MVN ro, #0XFF00FF00FF
+
+a)#0XFF00FF00FF
+b)#0X00FF00FF00
+c)#0XFFFFFFFFFF
+d)#0XF0F0F0F0F0
+e)None of the above
+
+Answer: e) None of the above
+
+2) Which is not a correct loop?
+
+a)BPL
+b)BNE
+c)BEQ
+d)BMI
+e)None of the above
+
+Answer: e) None of the above
